@@ -14,8 +14,6 @@ output_path = f"{opv2}/src/tasks/label_projection/methods/test_method"
 
 cmd = [
     meta['executable'],
-    '--task', 'label_projection',
-    '--type', 'method',
     '--name', 'test_method',
     '--language', 'python'
 ]

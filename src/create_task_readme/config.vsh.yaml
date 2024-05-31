@@ -36,9 +36,9 @@ functionality:
   resources:
     - type: r_script
       path: script.R
-    - path: /src/helper_functions/read_and_merge_yaml.R
-    - path: /src/helper_functions/read_api_files.R
-    - path: /src/helper_functions/strip_margin.R
+    - path: read_and_merge_yaml.R
+    - path: read_api_files.R
+    - path: strip_margin.R
   test_resources:
     - type: r_script
       path: test.R
