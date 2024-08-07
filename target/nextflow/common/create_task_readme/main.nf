@@ -3005,7 +3005,7 @@ meta = [
     "engine" : "docker",
     "output" : "target/nextflow/common/create_task_readme",
     "viash_version" : "0.9.0-RC6",
-    "git_commit" : "b7547e0f59c33cd7e16cdf5b7471a66a4ead5e3a",
+    "git_commit" : "6c004eb7934dc53d656010ec5d1889a28310c510",
     "git_remote" : "https://github.com/openproblems-bio/common_resources"
   },
   "package_config" : {
